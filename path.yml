@@ -1,0 +1,13 @@
+site:
+  title: Programming Language Wiki
+  url: https://codegatecircle.github.io/lang_wiki
+  start_page: main::index.adoc
+content:
+  sources:
+    - url: ./
+      start_path: components/main
+    - url: ./
+      start_path: components/c
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable

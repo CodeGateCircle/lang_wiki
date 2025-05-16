@@ -1,0 +1,12 @@
+services:
+  antora:
+    image: creambrulee/antora:latest
+    # build:
+    #   context: .
+    #   dockerfile: Dockerfile
+    volumes:
+      - .:/home/runner/work/lang_wiki/lang_wiki:Z
+      - .ignore:/home/runner/work/lang_wiki/lang_wiki/.ignore:Z
+    stdin_open: true
+    tty: true
+    restart: 'no'
