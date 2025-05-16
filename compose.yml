@@ -1,9 +1,8 @@
 services:
   antora:
     image: creambrulee/antora:latest
-    # build:
-    #   context: .
-    #   dockerfile: Dockerfile
+    working_dir: /home/runner/work/lang_wiki/lang_wiki
+    command: antora path.yml
     volumes:
       - .:/home/runner/work/lang_wiki/lang_wiki:Z
       - .ignore:/home/runner/work/lang_wiki/lang_wiki/.ignore:Z

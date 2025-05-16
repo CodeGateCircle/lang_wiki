@@ -1,4 +1,4 @@
-main: main
+name: main
 title: main
 version: '0.1'
 start_page: ROOT:index.adoc

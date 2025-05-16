@@ -56,3 +56,4 @@ int main(void) {
 |  char  | 1 Bite |  文字  | -128 ~ 128
 | short int | 2 Bite | 整数 | -32768 ~ 32768
 |  int  | 4 Bite | 整数 | stem:[-2^31 -> 2^31 - 1]
+|===

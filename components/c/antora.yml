@@ -1,4 +1,4 @@
-main: c
+name: c
 title: C Lang
 version: '0.1'
 start_page: ROOT:index.adoc
