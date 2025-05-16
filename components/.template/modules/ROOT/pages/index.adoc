@@ -1,0 +1,5 @@
+= Main Page
+
+== Welcome to the Main Page
+
+This is the main page of the documentation. Here you can find links to all the modules and components of the project.
