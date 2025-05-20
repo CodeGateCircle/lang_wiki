@@ -1,5 +1,21 @@
-= Main Page
+= Programming Languale Wiki
 
-== Welcome to the Main Page
+== About
 
-This is the main page of the documentation. Here you can find links to all the modules and components of the project.
+これは、各プログラミング言語のWikiです。
+
+== List
+
+* C
+* C++
+* C#
+* Java
+* Python
+* JavaScript
+* TypeScript
+* Go
+* Ruby
+* PHP
+* HTML
+* CSS
+* SQL
